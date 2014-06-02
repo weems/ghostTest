@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-ghostTest
-=========
-
 ghostTest Blog
 =======
 # [Ghost](https://github.com/TryGhost/Ghost) [![Build Status](https://travis-ci.org/TryGhost/Ghost.png?branch=master)](https://travis-ci.org/TryGhost/Ghost)
